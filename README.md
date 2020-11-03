@@ -37,3 +37,4 @@ git config — global user.email “user_email” : git 계정Mail변경하기
 git stash / git stash save “description” : 작업코드 임시저장하고 브랜치 바꾸기
 git stash pop : 마지막으로 임시저장한 작업코드 가져오기
 git branch — set-upstream
+git
